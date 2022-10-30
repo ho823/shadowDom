@@ -20,7 +20,7 @@ function shadowCreate() {
 
     styleShadow.textContent = `
     .shadowTitle {
-      font-family: 'Dosis', sans-serif;
+      font-family: 'Fasthand', cursive;
       color: orchid;
     }`;
     shadowRootOne.appendChild(styleShadow);
